@@ -2,7 +2,6 @@ package oop.inheritance;
 
 public class Woodwind extends Wind {
     public Woodwind() {
-        super();
     }
 
     @Override
